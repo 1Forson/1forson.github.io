@@ -1,7 +1,7 @@
 ## 博客介绍
 
 <p align=center>
-  <a href="https://www.talkxj.com">
+  <a href="1forson.github.io">
     <img src="https://static.talkxj.com/articles/4a8ca439f6a4cce8316f9a885c632cee.jpg" alt="Forson的个人博客" style="border-radius: 50%">
   </a>
 </p>
